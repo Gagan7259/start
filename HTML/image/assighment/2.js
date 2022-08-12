@@ -19,3 +19,4 @@ if(num/3==0){
 else{
     console.log("given number not divisible by 7");
 }
+
