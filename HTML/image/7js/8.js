@@ -4,3 +4,7 @@ for(let i = 1 ; i<=24; i++) {
         console.log(i)
     }   
 }
+for(i=1;i>=10;i=i+2)
+if(10==0){
+    console.log(i);
+}
