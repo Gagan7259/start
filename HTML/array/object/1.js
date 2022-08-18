@@ -1007,6 +1007,6 @@ let users = [{ "id": 1, "name": "Delmore", "email": "dsatyford0@netvibes.com", "
 } */
 
 for(user of users){
-    console.log(user.id)
+    console.log(user.gender)
 }
 
